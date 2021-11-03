@@ -1,0 +1,15 @@
+{
+  "name": "realm_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14",
+    "realm": "^10.9.1"
+  }
+}
